@@ -1,0 +1,89 @@
+
+.extcss{
+    border:8px solid red;
+    text-align: center;
+    background-color: rgb(10, 58, 58);
+}
+.extcssh2{
+    border:5px solid blue ;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 35px;
+    color: blanchedalmond;
+}
+.extcsspara{
+    border:2px solid rgb(11, 238, 68) ;
+    text-transform: capitalize;
+    font-size: 20px;
+    color: white;
+}
+.bdrsolid{
+    border: 8px solid aqua;
+    background-color: rgb(61, 51, 51);
+}
+.bdrsolidh2{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+.bdrsolidpara{
+    color: white;
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.bdrdashed{
+    border: 8px dashed aqua;
+    background-color: rgb(105, 27, 27);
+}
+.bdrdashedh2{
+    color: rgb(86, 179, 216);
+    font-size: 35px;
+    text-align: center;
+}
+.bdrdashedpara{
+    color: rgb(248, 235, 235);
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.bdrdoted{
+    border: 8px dotted aqua;
+    background-color: rgb(232, 248, 8);
+}
+.bdrdotedh2{
+    color: rgb(218, 57, 8);
+    font-size: 35px;
+    text-align: center;
+}
+.bdrdotedpara{
+    color: rgb(163, 30, 240);
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.bdrridge{
+    border: 8px ridge rgb(185, 11, 5);
+    background-color: rgb(4, 165, 31);
+}
+.bdrridgeh2{
+    color: rgb(132, 199, 238);
+    font-size: 35px;
+    text-align: center;
+}
+.bdrridgepara{
+    color: rgb(224, 14, 161);
+    font-size: 20px;
+    text-transform: capitalize;
+}
+.bdrinset{
+    border: 8px inset orange;
+    background-color: aqua;
+}
+.bdrinseth2{
+    color: blue;
+    font-size: 35px;
+    text-align: center;
+}
+.bdrdinsetpara{
+    color: white;
+    font-size: 20px;
+    text-transform: capitalize;
+}
